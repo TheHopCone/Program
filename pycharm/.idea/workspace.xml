@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d35a1eaa-2eb3-4295-a98f-dd8d75245a04" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ips_ids_diploma/ai_analyzer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ips_ids_diploma/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/ips_ids_diploma/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ips_ids_diploma/data_handlers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ips_ids_diploma/data_handlers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ips_ids_diploma/feeds/generated/urlhaus_generated_domains.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ips_ids_diploma/feeds/generated/urlhaus_generated_domains.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ips_ids_diploma/feeds/generated/urlhaus_generated_ips.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ips_ids_diploma/feeds/generated/urlhaus_generated_ips.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ips_ids_diploma/firewall_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/ips_ids_diploma/firewall_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ips_ids_diploma/main_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/ips_ids_diploma/main_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ips_ids_diploma/session_state.json" beforeDir="false" afterPath="$PROJECT_DIR$/ips_ids_diploma/session_state.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ips_ids_diploma/sniffer_logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/ips_ids_diploma/sniffer_logic.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ips_ids_diploma" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2y5hKB2vQaIp7Z1Rqr3uSqXpvZq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.threading.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Desktop/pycharm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d35a1eaa-2eb3-4295-a98f-dd8d75245a04" name="Changes" comment="" />
+      <created>1749130274850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749130274850</updated>
+      <workItem from="1749130275937" duration="136000" />
+      <workItem from="1749130512595" duration="460000" />
+      <workItem from="1749131066882" duration="14000" />
+      <workItem from="1749481709184" duration="92000" />
+      <workItem from="1749484316152" duration="1120000" />
+      <workItem from="1749485834624" duration="510000" />
+      <workItem from="1749487523098" duration="17000" />
+      <workItem from="1749487548460" duration="487000" />
+      <workItem from="1749489325595" duration="220000" />
+      <workItem from="1749495694901" duration="169000" />
+      <workItem from="1749538727235" duration="211000" />
+      <workItem from="1749538993778" duration="1221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pycharm$threading.coverage" NAME="threading Coverage Results" MODIFIED="1749485843762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/Python/Lib" />
+    <SUITE FILE_PATH="coverage/pycharm$main_app.coverage" NAME="main_app Coverage Results" MODIFIED="1749539493463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ips_ids_diploma" />
+  </component>
+</project>
