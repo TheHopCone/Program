@@ -1,0 +1,1 @@
+{"id": 1, "timestamp": "2025-05-28 00:23:25.879", "severity": "high", "src_ip": "172.20.10.3", "src_port": 57466, "dst_ip": "172.20.10.1", "dst_port": 53, "protocol": "UDP (DNS)", "ioc_type": "DOMAIN", "indicator": "evil-domain.net", "feed_source": "bad_domains.txt", "description": "DNS до evil-domain.net", "reference": "(static feed)"}

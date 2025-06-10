@@ -1,0 +1,86 @@
+{
+    "all_threat_data": [
+        [
+            "hist_agg_1",
+            [
+                "1",
+                6,
+                "2025-06-02 09:36:36.258",
+                "HIGH",
+                "172.20.10.3",
+                "N/A",
+                "115.127.119.198",
+                "N/A",
+                "ICMP",
+                "IP",
+                "115.127.119.198",
+                "URLhaus (abuse.ch)",
+                "URLhaus: malware_download (censys,elf,hajime)"
+            ],
+            "Історичний Агрегат"
+        ],
+        [
+            "hist_agg_2",
+            [
+                "2",
+                5,
+                "2025-06-02 09:36:10.800",
+                "HIGH",
+                "115.127.119.198",
+                "N/A",
+                "172.20.10.3",
+                "N/A",
+                "ICMP",
+                "IP",
+                "115.127.119.198",
+                "URLhaus (abuse.ch)",
+                "URLhaus: malware_download (censys,elf,hajime)"
+            ],
+            "Історичний Агрегат"
+        ],
+        [
+            "hist_agg_3",
+            [
+                "3",
+                4,
+                "2025-06-02 09:47:13.526",
+                "HIGH",
+                "172.20.10.3",
+                "N/A",
+                "160.191.86.172",
+                "N/A",
+                "ICMP",
+                "IP",
+                "160.191.86.172",
+                "URLhaus (abuse.ch)",
+                "URLhaus: malware_download (censys,elf,mirai,moobot,ua-wget)"
+            ],
+            "Історичний Агрегат"
+        ],
+        [
+            "hist_agg_4",
+            [
+                "4",
+                4,
+                "2025-06-02 09:47:13.888",
+                "HIGH",
+                "160.191.86.172",
+                "N/A",
+                "172.20.10.3",
+                "N/A",
+                "ICMP",
+                "IP",
+                "160.191.86.172",
+                "URLhaus (abuse.ch)",
+                "URLhaus: malware_download (censys,elf,mirai,moobot,ua-wget)"
+            ],
+            "Історичний Агрегат"
+        ]
+    ],
+    "threat_details_json": {
+        "hist_agg_1": "{\"id\": \"evt_1748846196.258314\", \"timestamp\": \"2025-06-02 09:36:36.258\", \"severity\": \"HIGH\", \"src_ip\": \"172.20.10.3\", \"src_port\": \"N/A\", \"dst_ip\": \"115.127.119.198\", \"dst_port\": \"N/A\", \"protocol\": \"ICMP\", \"ioc_type\": \"IP\", \"indicator\": \"115.127.119.198\", \"feed_source\": \"URLhaus (abuse.ch)\", \"description\": \"URLhaus: malware_download (censys,elf,hajime)\", \"reference\": \"https://urlhaus.abuse.ch/url/3555478/\"}",
+        "hist_agg_2": "{\"id\": \"evt_1748846170.800978\", \"timestamp\": \"2025-06-02 09:36:10.800\", \"severity\": \"HIGH\", \"src_ip\": \"115.127.119.198\", \"src_port\": \"N/A\", \"dst_ip\": \"172.20.10.3\", \"dst_port\": \"N/A\", \"protocol\": \"ICMP\", \"ioc_type\": \"IP\", \"indicator\": \"115.127.119.198\", \"feed_source\": \"URLhaus (abuse.ch)\", \"description\": \"URLhaus: malware_download (censys,elf,hajime)\", \"reference\": \"https://urlhaus.abuse.ch/url/3555478/\"}",
+        "hist_agg_3": "{\"id\": \"evt_1748846833.526795\", \"timestamp\": \"2025-06-02 09:47:13.526\", \"severity\": \"HIGH\", \"src_ip\": \"172.20.10.3\", \"src_port\": \"N/A\", \"dst_ip\": \"160.191.86.172\", \"dst_port\": \"N/A\", \"protocol\": \"ICMP\", \"ioc_type\": \"IP\", \"indicator\": \"160.191.86.172\", \"feed_source\": \"URLhaus (abuse.ch)\", \"description\": \"URLhaus: malware_download (censys,elf,mirai,moobot,ua-wget)\", \"reference\": \"https://urlhaus.abuse.ch/url/3550962/\"}",
+        "hist_agg_4": "{\"original_data\": \"\", \"ai_analysis\": {\"assessment\": \"Assessment: The IP address 160.191.86.172 does not have any known malicious associations or indicators of compromise. It appears to be safe.\\nDecision: Safe\", \"decision_to_block\": false, \"decision_reason\": \"Визначено як безпечний за аналізом ШІ.\"}}"
+    }
+}

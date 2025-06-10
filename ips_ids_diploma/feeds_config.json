@@ -1,0 +1,12 @@
+[
+  {
+    "name": "URLhaus (abuse.ch)",
+    "enabled": true,
+    "type": "csv_online_urlhaus",
+    "url": "https://urlhaus.abuse.ch/downloads/csv_online/",
+    "output_ips_file": "urlhaus_generated_ips.csv",
+    "output_domains_file": "urlhaus_generated_domains.csv",
+    "default_severity_ip": "HIGH",
+    "default_severity_domain": "HIGH"
+  }
+]
